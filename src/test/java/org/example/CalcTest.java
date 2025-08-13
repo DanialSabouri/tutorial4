@@ -13,7 +13,7 @@ public class CalcTest {
 
     @Test
     void testSubtraction() {
-        assertEquals(5, c.add(8,3));
+        assertEquals(5, c.subtract(8,3));
     }
 
 }
